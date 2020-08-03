@@ -4,7 +4,7 @@ This project makes your profile images frontal based on your landmarks' position
 
 
 before:
-[alter before](https://i.pinimg.com/originals/07/c4/7d/07c47d934b12ebf3b2688fd9c8ee3c7b.jpg)
+![alter before](https://i.pinimg.com/originals/07/c4/7d/07c47d934b12ebf3b2688fd9c8ee3c7b.jpg)
 
 after:
-[alter after](https://ibb.co/qgLwpXR)
+![alter after](https://ibb.co/qgLwpXR)
