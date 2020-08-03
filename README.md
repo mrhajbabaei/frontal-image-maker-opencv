@@ -1,3 +1,3 @@
-##Frontal image maker with OpenCV
+## Frontal image maker with OpenCV
 
-This project makes your profile images frontal based on your landmarks positions. To detect landmarks (MTCNN)[https://github.com/ipazc/mtcnn] is used and you should install Tensorflow framework and Keras to use it. OpenCV is anothre main library which is used to this project, so consider installing it thorough CMake. Have a good frontal images with this project ;)
+This project makes your profile images frontal based on your landmarks' position. To detect landmarks [MTCNN network](https://github.com/ipazc/mtcnn) used and you should consider install Tensorflow framework and Keras to use it. OpenCV is another main library which is used to this project, so to be able to use this library you should build it up through CMake. Have a good frontal images with this project ;)
